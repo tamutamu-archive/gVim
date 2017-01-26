@@ -27,3 +27,5 @@ set background=dark
 " 不可視文字を可視化(タブ)
 set list	
 set listchars=tab:>.,trail:␣,eol:↲,extends:>,precedes:<,nbsp:%
+
+set clipboard+=unnamed
