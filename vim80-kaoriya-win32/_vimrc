@@ -2,6 +2,8 @@
 "文字コードをUFT-8に設定
 scriptencoding utf-8
 set encoding=utf-8
+set fileformats=unix
+set fileformat=unix
 set fenc=utf-8
 " バックアップファイルを作らない
 set nobackup
